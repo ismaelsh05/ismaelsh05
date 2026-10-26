@@ -1,4 +1,4 @@
-# # # Hi there 👋
+# Hi there 👋
 
 Meu nome é Ismael, sou estudante de desenvolvimento web e estou em transição de carreira para a área de tecnologia.
 <br>
