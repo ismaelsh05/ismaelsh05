@@ -19,7 +19,8 @@ Meu nome é Ismael, sou estudante de desenvolvimento web e estou em transição 
 :computer: Tecnologias:
 <br>
 
-<img src="https://3karaliai.lt/info/i/img46130_0.jpg" width=" 30px" height=" 48px" alt="html-logo" /> <img src="https://funskillup.com/images/blog-posts/1-02-12-2024-css.jpg" width=" 25px" height=" 30px" alt="css-logo" />
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-563d7c?&style=flat&logo=css3&logoColor=white)
 
 :chart_with_upwards_trend: Meus stats:
 
