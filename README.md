@@ -30,6 +30,5 @@ Meu nome é Ismael, sou estudante de desenvolvimento web e estou em transição 
 
 [![ismael Stats](https://github-stats-extended.vercel.app/api/top-langs?username=ismaelsh05&layout=donut&langs_count=5&theme=cobalt)](https://github-stats-extended.vercel.app/api/top-langs?username=anuraghazra&layout=donut&langs_count=5&theme=cobalt)
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/wakatime?username=ismaelsh05_progress=true&card_width=315&langs_count=6&theme=one_dark_pro)](https://wakatime.com/@alan)
 
 📍 São Paulo, Brasil
